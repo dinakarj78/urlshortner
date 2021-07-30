@@ -15,7 +15,7 @@ height:auto;
     font-weight:700;
 }
 .info{
-    margin-left:380px;
+    margin-left:480px;
     width:400px;
     color:#9e9aa8;
     weight:700;
