@@ -7,7 +7,7 @@ import bgboost from './Assets/bg-boost-desktop.svg'
 const Main=styled.div`
 text-align:center;
 background-color:#bfbfbf;
-width:100%px;
+width:100%;
 height:auto;
 
 .header{
@@ -41,7 +41,7 @@ width:1000px;
 .description{
 color:#9e9aa8;
 background-color:white;
-margin-left:100px;
+margin-left:200px;
 margin-top:50px;
 width:250px;
 height:auto;
