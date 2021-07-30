@@ -12,7 +12,7 @@ const Linkshortner=styled.div`
     background-image:url(${bg});
     background-repeat:no-repeat ;
     background-color:#3b3054;
-    margin-top:40px;
+    margin-top:90px;
     margin-left:200px;
     border-radius:5px;
     margin-bottom:0px;
