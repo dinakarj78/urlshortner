@@ -41,7 +41,7 @@ width:100%;
 .description{
 color:#9e9aa8;
 background-color:white;
-margin-left:200px;
+margin-left:180px;
 margin-top:50px;
 width:250px;
 height:auto;
