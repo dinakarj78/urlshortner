@@ -36,7 +36,7 @@ import { Footer } from './Footer';
   .Navbuttons{
     align-self:flex-end;
     margin-right:auto;
-    margin-left:680px;
+    margin-left:550px;
     padding:8px;
      border:none;
      font-family:Poppins;
@@ -103,7 +103,7 @@ margin-top:0px;
 padding-top:180px;
 font-family:Poppins;
 font-weight:700;
-font-size:65px;
+font-size:50px;
 margin-bottom:0px;`
 
 const About=styled.div` 
