@@ -7,7 +7,7 @@ import bgboost from './Assets/bg-boost-desktop.svg'
 const Main=styled.div`
 text-align:center;
 background-color:#bfbfbf;
-width:100%;
+width:1000px;
 height:auto;
 
 .header{
@@ -30,7 +30,7 @@ margin:0px;
 display:flex;
 flex-direction:row;
 height:400px;
-width:1000px;
+width:100%;
 
 .icons{
     background-color:#232127;
